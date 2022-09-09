@@ -2,7 +2,8 @@
 - 👀 I’m interested in ... programming
 - 🌱 I’m currently learning ... Java & Python
 - 💞️ I’m looking to collaborate on ... anything!
-- 📫 How to reach me ... on github
+- 📫 How to reach me ... on github, email: Dantesnava@gmail.com
+- Linkedin: https://www.linkedin.com/in/dantesnava14/
 
 <!---
 DantesNava/DantesNava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
