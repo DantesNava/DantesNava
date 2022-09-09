@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DantesNava
 - 👀 I’m interested in ... programming
-- 🌱 I’m currently learning ... HTML 5 & CSS
+- 🌱 I’m currently learning ... Java & Python
 - 💞️ I’m looking to collaborate on ... anything!
 - 📫 How to reach me ... on github
 
